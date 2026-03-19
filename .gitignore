@@ -164,3 +164,9 @@ rl_grpo/model/Qwen/Qwen2.5-7B-Instruct/.gitattributes
 tiny_rag/data
 tiny_rag/models
 core.*
+
+02_RAG_ing/MinerU/data
+02_RAG_ing/MinerU/outputs
+02_RAG_ing/MinerU/outpus
+
+02_RAG_ing/doc/流程记录.md
